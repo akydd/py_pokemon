@@ -15,7 +15,7 @@ options:
 ```
 
 ## How to run
-1. Ensure you have python installed on your system. If it is installed, you shoud be able to do somsething like this at the command prompt. Your command to run python will vary. If `python3` doesn't work, try `python`.
+1. Ensure you have python installed on your system. If it is installed, you shoud be able to do something like this at the command prompt. Your command to run python will vary. If `python3` doesn't work, try `python`.
 ```sh
 python3 --version
 Python 3.13.0
