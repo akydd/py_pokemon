@@ -15,14 +15,14 @@ options:
 ```
 
 ## How to run
-1. Ensure you have python installed on your system. You shoud be able to do somsething like this at the command prompt. Your command to run python will vary. If `python3` doesn't work, try `python`.
+1. Ensure you have python installed on your system. If it is installed, you shoud be able to do somsething like this at the command prompt. Your command to run python will vary. If `python3` doesn't work, try `python`.
 ```sh
 python3 --version
 Python 3.13.0
 ```
 2. Download both the script (`py_pokemon.py`) and the data file (`data.json`) into the same directory.
 3. Pick the range of placements you want to analyse. For example, players ranked 200th to 300th place.
-4. Run the script:
+4. From the directory where you downloaded the files (step 2), run the script. In the example below, we've used a placement range of 200 to 300.
 ```sh
 python3 py_pokemon.py data.json 200 300
 
