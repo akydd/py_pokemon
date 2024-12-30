@@ -1,6 +1,6 @@
 # py_pokemon
 
-```sh
+```
 usage: py_pokemon.py [-h] file high low
 
 Given a json data file and the high and low placements, return the deck types ordered by percentage used.
