@@ -20,7 +20,7 @@ options:
 python3 --version
 Python 3.13.0
 ```
-2. Download both the script (`py_pokemon.py`) and the data file (`data.json`) into the same directory.
+2. Download both the script (`py_pokemon.py`) and the standings data file into the same directory. A standings file `data.json` obtained from www.pokedata.ovh is provided for you here, but you should be able to use any of the standings json files downloaded from www.pokedata.ovh.
 3. Pick the range of placements you want to analyse. For example, players ranked 200th to 300th place.
 4. From the directory where you downloaded the files (step 2), run the script. In the example below, we've used a placement range of 200 to 300.
 ```sh
